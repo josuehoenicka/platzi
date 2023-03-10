@@ -1,5 +1,4 @@
 ### To Do:
-Watch 4th class && Install Create React App
+Watch 'Curso de Introduccion a React / 5th class'
 
 ### Next class:
-Curso de Introduccion a React / 5th class
